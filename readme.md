@@ -5,7 +5,7 @@ En este proyecto básico vamos a buscar el listado de miembros de Github de la o
 
 ## Puntos Opcionales agregados
 - Paginación (10 páginas, se muestran hasta 10 usuarios por página)
-- Librería de componentes de React de Material UI.
+- Librería de componentes de React de Material UI
 
 ## Instalación
 
@@ -13,7 +13,7 @@ En este proyecto básico vamos a buscar el listado de miembros de Github de la o
    git clone https://github.com/tgordyn/Modulo-4.1--Frameworks--React-Laboratorio.git
 
 2. **Navegar al directorio del repositorio**:
-   - cd 04-DETAIL
+   - cd Modulo-4.1--Frameworks--React-Laboratorio
 
 3. **Instalar las dependencias**:
    `npm install`
