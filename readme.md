@@ -21,6 +21,6 @@ En este proyecto básico vamos a buscar el listado de miembros de Github de la o
 ## Ejecutar aplicación
 
 Para ejecutar la aplicación se utiliza el siguiente comando:
-   `npm start`
+   `npm start`.
 Se abrirá por defecto en el localhost 8080 en el navegador.
 Utilizar en el login las credenciales de user `admin` y pass `test`.
